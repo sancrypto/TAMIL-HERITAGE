@@ -8,6 +8,7 @@ THE TAMILS ARE AN A ANCIENT PEOPLE   " When the past no longer illuminates the 
  Indian Union & the Tamil Nation
  
  Indus Civilisation
+ 
 The Tamils are an ancient people. Their history had its beginnings in the rich alluvial plains near the southern extremity of peninsular India which included the land mass known as the island of Sri Lanka today. The island's plant and animal life (including the presence of elephants) evidence the earlier land connection with the Indian sub continent. So too do satellite photographs which show the submerged 'land bridge' between Dhanuskodi on the south east of the Indian sub-continent and Mannar in the north west of the island. 
 Some researchers have concluded that it was during the period 6000 B.C. to 3000 B.C. that the island separated from the Indian sub continent and the narrow strip of shallow water known today as the Palk Straits came into existence. Many Tamils trace their origins to the people of Mohenjodaro in the Indus Valley around 6000 years before the birth of Christ.  There is, however, a need for further systematic study of the history of the early Tamils and proto Tamils.
 "Dravidians, whose descendents still live in Southern India, established the first  city communities, in the Indus valley, introduced irrigation schemes, developed pottery  and evolved a well ordered system of government." (Reader's Digest Great World  Atlas, 1970)
