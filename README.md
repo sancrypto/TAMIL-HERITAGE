@@ -1,8 +1,24 @@
 # TAMIL-HERITAGE
-THE TAMILS ARE AN A ANCIENT PEOPLE   " When the past no longer illuminates the future, the spirit walks in darkness "
-echo "# TAMIL-HERITAGE" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/sancrypto/TAMIL-HERITAGE.git
-git push -u origin master
+THE TAMILS ARE AN A ANCIENT PEOPLE   " When the past no longer illuminates the future, the spirit walks in darkness "
+ Indus Civilisation  
+ Tamils were a sea faring people  
+ British conquest & Tamil    renaissance  
+ Bharathy, Periyar E.V.Ramasamy & Tamil nationalism 
+ Growth of Tamil consciousness in Sri Lanka  
+ Indian Union & the Tamil Nation
+ 
+ Indus Civilisation
+The Tamils are an ancient people. Their history had its beginnings in the rich alluvial plains near the southern extremity of peninsular India which included the land mass known as the island of Sri Lanka today. The island's plant and animal life (including the presence of elephants) evidence the earlier land connection with the Indian sub continent. So too do satellite photographs which show the submerged 'land bridge' between Dhanuskodi on the south east of the Indian sub-continent and Mannar in the north west of the island. 
+Some researchers have concluded that it was during the period 6000 B.C. to 3000 B.C. that the island separated from the Indian sub continent and the narrow strip of shallow water known today as the Palk Straits came into existence. Many Tamils trace their origins to the people of Mohenjodaro in the Indus Valley around 6000 years before the birth of Christ.  There is, however, a need for further systematic study of the history of the early Tamils and proto Tamils.
+"Dravidians, whose descendents still live in Southern India, established the first  city communities, in the Indus valley, introduced irrigation schemes, developed pottery  and evolved a well ordered system of government." (Reader's Digest Great World  Atlas, 1970)
+Clyde Ahmad Winters, who has written extensively on Dravidian origins commented:
+"Archaeological and linguistic evidence indicates that the Dravidians were the  founders of the Harappan culture which extended from the Indus Valley through northeastern  Afghanistan, on into Turkestan. The Harappan civilization existed from 2600-1700 BC. The  Harappan civilization was twice the size the Old Kingdom of Egypt. In addition to trade  relations with Mesopotamia and Iran, the Harappan city states also had active trade  relations with the Central Asian peoples." 
+He has also explored the question whether the Dravidians were of African origin. (Winters, Clyde Ahmad, "Are Dravidians of African Origin", P.Second ISAS,1980 - Hong Kong:Asian Research Service, 1981 -  pages 789- 807)
+Other useful web pages on the Indus civilisation (suggested by Dr.Jude Sooriyajeevan   of the National Research Council, Canada)  include the Indus Dictionary.
+At the same time, the  Aryan/Dravidian divide in India and the 'Aryan Invasion Theory' itself has come under  attack by some modern day historians. (see also Sarasvati-Sindhu civilisation; 'Hinduism: Native or Alien to India')  
+Professor Klaus Klostermaier in 'Questioning the Aryan Invasion Theory and Revising Ancient Indian History' commented:  
+"India had             a tradition of learning and scholarship much older and vaster than             the European countries that, from the sixteenth century onwards,             became its political masters. Indian scholars are rewriting the             history of India today.One of the major points of revision concerns the             so called 'Aryan invasion theory', often referred to as 'colonial-missionary', implying that it was the brainchild of             conquerors of foreign colonies who could not but imagine that all             higher culture had to come from outside 'backward' India, and who             likewise assumed that a religion could only spread through a             politically supported missionary effort.
+While not buying into the more             sinister version of this revision, which accuses the inventors of             the Aryan invasion theory of malice and cynicism, there is no doubt             that early European attempts to explain the presence of Indians in             India had much to with the commonly held Biblical belief that             humankind originated from one pair of humans- Adam and Eve to be precise ..."   
+Hinduism Today concluded in Rewriting Indian History -  Hindu Timeline: 
+"Although lacking supporting scientific evidence, this (Aryan Invasion) theory,  and the alleged Aryan-Dravidian racial split, was accepted and promulgated as fact for  three main reasons. It provided a convenient precedent for Christian British subjugation  of India. It reconciled ancient Indian civilisation and religious scripture with the 4000  bce Biblical date of Creation. It created division and conflict between the peoples of  India, making them vulnerable to conversion by Christian missionaries."	 
+"Scholars today of both East and West believe the Rig Veda people who called  themselves Aryan were indigenous to India, and there never was an Aryan invasion. The  languages of India have been shown to share common ancestry in ancient Sanskrit and Tamil.  Even these two apparently unrelated languages, according to current  "super-family" research, have a common origin: an ancient language dubbed  Nostratic." 
